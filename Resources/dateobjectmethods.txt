@@ -1,2 +1,0 @@
-Click here for a list of Date Object Methods:
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date

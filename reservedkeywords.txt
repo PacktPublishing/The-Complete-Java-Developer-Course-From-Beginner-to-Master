@@ -1,2 +1,0 @@
-Click here to be directed to a list of reserved keywords in Javascript:
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords
